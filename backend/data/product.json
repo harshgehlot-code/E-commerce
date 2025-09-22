@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Syltherine",
+    "brand": "BrandA",
+    "category": "Chairs",
+    "price": 2500000,
+    "description": "Stylish cafe chair",
+    "image": "/static/product-placeholder.png"
+  },
+  {
+    "id": 2,
+    "name": "Leviosa",
+    "brand": "BrandB",
+    "category": "Chairs",
+    "price": 2500000,
+    "description": "Stylish cafe chair",
+    "image": "/static/product-placeholder.png"
+  },
+  {
+    "id": 3,
+    "name": "Lolito",
+    "brand": "BrandA",
+    "category": "Sofas",
+    "price": 7000000,
+    "description": "Luxury big sofa",
+    "image": "/static/product-placeholder.png"
+  }
+  
+]
